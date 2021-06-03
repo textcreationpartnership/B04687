@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect and true account of the rising of the rebels in the west of Scotland together with their declaration.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04687</idno><idno type="EEBO-CITATION">52614831</idno>
+  <idno type="VID">176022</idno>
+  <idno type="EEBO-PROQUEST">2240865497</idno>
+  
+            <idno type="STC">Wing P1471A</idno>
+            <idno type="STC">ESTC R219232</idno>
+            <idno type="OCLC">52614831</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176022)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2759:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect and true account of the rising of the rebels in the west of Scotland together with their declaration.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: print show-through with much loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176022:1"/>
+            <p> A perfect and true ACCOUNT Of the Rising of the REBELS In the WEST of SCOTLAND Together with their DECLARATION.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1679.</p>
+            <pb facs="tcp:176022:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="3" facs="tcp:176022:2"/>
+            <head>A true ACCOUNT OF The Rebels IN The WEST of <hi>SCOTLAND.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi>
+                  <date> June 4.</date>
+               </dateline>
+            </opener>
+            <p>ON <hi>Saturday</hi> the 29th. past, a Com<g ref="char:EOLhyphen"/>pany of men, to the number of 80, well Mounted and Armed, came to <hi>Ruglan,</hi> Proclaimed the Covenant, and burnt several Acts of Parliament, <hi>viz.</hi> The Act concerning the Kings Supremacy, the Recissory Act, the Act for Establishing Epi<g ref="char:EOLhyphen"/>scopacy, and the Act appointing the Anniver<g ref="char:EOLhyphen"/>sary of the 29th. of <hi>May;</hi> and that done, they affixed a certain Scandalous and Traite<g ref="char:EOLhyphen"/>rous Paper, or Declaration, on the Market-cross;
+<pb n="4" facs="tcp:176022:3"/> and intended to have done the ilke at <hi>Glasgow,</hi> but were prevented by the Kings Forces there.</p>
+            <p>On <hi>Sunday</hi> las<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Captain <hi>Graham</hi> of <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae<g ref="char:EOLhyphen"/>verhouse,</hi> upon the notice he had of a great number of Men being gathered together upon <hi>Loudown-</hi>hill, marched thither with his Tro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p, and a Company of Dragoons, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound there 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or 1500 Men well arm'd, and in good order; the Foot com<g ref="char:EOLhyphen"/>manded by one <hi>Weir,</hi> and the Horse by <hi>Rob. Hamilton,</hi> one <hi>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ton, Belfoor</hi> &amp; <hi>Haxston</hi> (these two last being of the Murderers of the Arch-bishop of St. <hi>Andrews.)</hi>
+            </p>
+            <p>The Rebels upon Cap. <hi>Grahams</hi> aproach, sent out two parties to skirmish with him which he beat into their main Body; the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they advanced with their whole Force up<g ref="char:EOLhyphen"/>on him; who after a considerable slaugh<g ref="char:EOLhyphen"/>ter of the Rebels, and the loss of his Cor<g ref="char:EOLhyphen"/>net, two Brigadiers, and about Eigh Horse and twenty Dragoons, (his own Horse be<g ref="char:EOLhyphen"/>ing killed under him, and mounting ano<g ref="char:EOLhyphen"/>ther,) he being so much over-power'd with number, he made his retreat towards <hi>Glas<g ref="char:EOLhyphen"/>gow,</hi>
+               <pb n="5" facs="tcp:176022:3"/> being in his way forced to fight his passage through the Towns-men of <hi>Streuin,</hi> who were got together to oppose it, leaving Ten or Twelve of them dead on the place.</p>
+            <p>On Munday morning the Rebels had the con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dence to attack the City of <hi>Glasgow,</hi> at, two several times, but all the streets were so well barrocaded by the Lord <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss,</hi> and the Soldiers were put in so good a po<g ref="char:EOLhyphen"/>sture, that the Rebels were beat off with a considerable loss, besides many Prisoners that were taken; And thereupon the Horse and Dragoons in the Town sallied out, and when our last Letters came away, were in pursuit of their Reer.</p>
+            <p>His Majesties Privy-Council has put out a Proclamation, and all other care is taking by them to suppress these Rebels, which we hope very suddenly to give you a fur<g ref="char:EOLhyphen"/>ther account of.</p>
+            <pb n="6" facs="tcp:176022:4"/>
+            <p>
+               <hi>The DECLARATION of the REBELS, in the very words as it was designed to have been put up by them at</hi> Glasgow, <hi>and was actually put up at</hi> Rug<g ref="char:EOLhyphen"/>lan.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <p>AS the Lord had been pleased still to keep and preserve his Interest in the Land, by the testimony of some faithful witnesses from the beginning, so in our dayes, some have not b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n wanting, who through the greatest of hazard had added their Testimonies to those who have gone before them, by suffering Death, Banish<g ref="char:EOLhyphen"/>ments, Torturings, Finings, Forfeitures, Im<g ref="char:EOLhyphen"/>prisonment, <hi>&amp;c.</hi> flowing from cruel and perfi<g ref="char:EOLhyphen"/>dious Adversaries, to the <hi>Kirk and Kingdom of our Lord Jesus Christ in the Land.</hi>
+                        </p>
+                        <p>Therefore we owning the Interest of Christ according to the Word of the Lord, and the Na<g ref="char:EOLhyphen"/>tional and Solemn League and Covenant, desire to adde our Testimony to the Testimonies of the Worthies that has gone before; (though unwor<g ref="char:EOLhyphen"/>thy, yet hoping as true Members of the Church
+<pb n="7" facs="tcp:176022:4"/> of Christ in <hi>Scotland;)</hi> and that against all things that has been done prejudicial to his In<g ref="char:EOLhyphen"/>terest, from the beginning of the Work of Refor<g ref="char:EOLhyphen"/>mation in <hi>Scotland;</hi> especially from the year 48, to the year 1660, against these following Acts. As first, <hi>The Act of Supremacy,</hi> 2. <hi>The Declaration whereby the Covenants are Condemned.</hi> 3. <hi>The Act for Eversion of the Establisht Government of the Church, and for Establishing of Prelacy, and for out<g ref="char:EOLhyphen"/>ing of Christ's Ministers who could not con<g ref="char:EOLhyphen"/>form thereto.</hi> By <hi>an Act Recissory of all Acts of Parliament and Assemblies, for the Establishment of the Government of the Church of</hi> Scotland, <hi>according to the Word.</hi> As likewise, <hi>that Act of Council at</hi> Glasgow, <hi>putting that Act Recissory in Execution;</hi> where at one time were violently cast out above 300 Ministers, without all legal procedure. Likewise, <hi>the Act appointing a Holy Anniver<g ref="char:EOLhyphen"/>sary-day to be kept upon the 29th. day of</hi> May, <hi>for giving Thanks for the Upsetting of one Usurping Power, destroying the Interest of the Church of Christ in the Land:</hi> Which is to set up the Creature to be worshipped in the
+<pb n="8" facs="tcp:176022:5"/> room of our great Redeemer, and to consent to the Assuming of the Power lhat is proper to the Lord alone; for the appointing of Ordi<g ref="char:EOLhyphen"/>dances in his Church, as particularly to the Government thereof, and the keeping of Ho<g ref="char:EOLhyphen"/>ly-days, and all other sinful and unlawful Acts emitted and executed by them. And for Confirmation of this our Testimony, we do this day being the 29th. day of <hi>May</hi> 1679. publickly burn them at the Cross of <hi>Glosgow</hi> most justly, as they perfidiously and blasphe<g ref="char:EOLhyphen"/>monsly had burnt our Holy Covenants, through several Cities of the Covenanted Kingdom. We judge none will take Exception at our not subscribing this our Testimony being so solemn<g ref="char:EOLhyphen"/>ly gone about: for we are ready always to do it, if judged necessary, with all the faithful suffering Brethren in the Land.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
